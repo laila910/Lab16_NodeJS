@@ -1,4 +1,4 @@
-# Part 1 As testing or Studying :) 
+# Part 1: 
 # Contact CRUD System 
 > notes:
  1. Install and using `express()` to create server.
@@ -24,3 +24,10 @@
  For Phonebook getting list of Contacts, get contact by id , add and delete contact
  Use files to save the data
  Contact will has (name, phone) properties.
+
+> notes:
+ 1. create `phonebookWS.js`
+ 2. use express, body-parser,fs and listen to port `8080`
+ 3. testing using handler `/` and all is work as in :
+   ![image](img/testing.jpg)
+ 4. stop until Now and I will return to it :) 
