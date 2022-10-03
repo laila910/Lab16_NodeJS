@@ -1,3 +1,4 @@
+# Part 1 As testing or Studying :) 
 # Contact CRUD System 
 > notes:
  1. Install and using `express()` to create server.
@@ -17,10 +18,9 @@
   ![image](img/editDataOfLailaContact.jpg)
  4. remove `omar` contact by click on `delete` button and return to home as in:
   ![image](img/removeOmar.jpg)
-
-> Part 1
+<!-- ****************************************** -->
+# Part 2 (Lab2 Rest WS for Phonebook):
  Create Rest web service using NodeJS and Express
  For Phonebook getting list of Contacts, get contact by id , add and delete contact
  Use files to save the data
  Contact will has (name, phone) properties.
- 
